@@ -12,18 +12,22 @@ There are four types of analysis
 * Country economic analysis
 
 **Life expectancy**
+
 From the country option you can select specific value and result will be shown based on that.
 
 
 **Mortality analysis**
+
 From the country option you can select specific value and result will be shown based on that.
 
 
 **Health Analysis**
+
 From the country option you can select specific value and result will be shown based on that.There is also a option to select range of year also .
 
 
 **Country economic analysis**
+
 From the country option you can select specific value and result will be shown based on that.
 
 
