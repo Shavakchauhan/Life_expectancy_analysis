@@ -3,7 +3,7 @@ This repo contains the analysis of Life expectacny using Microsft power bi.
 
 There are four types of analysis
 
-**life expectancy
+<h3> life expectancy </h3>
 
 **mortality analysis
 
