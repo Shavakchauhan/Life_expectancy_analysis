@@ -14,8 +14,7 @@ There are four types of analysis
 **Life expectancy**
 
 From the country option you can select specific value and result will be shown based on that.
-![https://github.com/Shavakchauhan/Life_expectancy_analysis/blob/main/images/country_economic_analysis.png]
-
+![image](https://github.com/Shavakchauhan/Life_expectancy_analysis/blob/main/images/country_economic_analysis.png)
 
 **Mortality analysis**
 
